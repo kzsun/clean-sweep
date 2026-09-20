@@ -1,0 +1,11 @@
+{
+  "name": "Clean Sweep",
+  "consumable": "Salvage Gloves",
+  "price": "1000000000000000000",
+  "outcomes": [
+    { "name": "Aluminium Bundle", "chanceBps": 5000, "reward": "250000000000000000" },
+    { "name": "E-waste Components", "chanceBps": 3000, "reward": "750000000000000000" },
+    { "name": "Copper Coil", "chanceBps": 1500, "reward": "1500000000000000000" },
+    { "name": "Vintage Device", "chanceBps": 500, "reward": "5000000000000000000" }
+  ]
+}
